@@ -18,7 +18,8 @@ def speak_to_grandma(phrase)
   end
   
   if 
-    
+    phrase == "WHAT DID YOU EAT TODAY?"
+    says = 
 
 end 
 

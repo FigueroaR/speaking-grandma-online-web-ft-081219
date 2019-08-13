@@ -5,7 +5,8 @@ def speak_to_grandma(phrase)
     return says
   end
   
-  elsif phrase == 
+  elsif phrase == 'Hi Nana, how are you?'
+    says = 
   
   
  end 

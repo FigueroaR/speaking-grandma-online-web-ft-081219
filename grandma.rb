@@ -25,7 +25,9 @@ def speak_to_grandma(phrase)
   
   if 
     phrase == 'WHAT?'
-    says = 
+    says = "NO, NOT SINCE 1938!"
+    return says
+  end 
 
 end 
 

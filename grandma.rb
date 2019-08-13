@@ -11,7 +11,9 @@ def speak_to_grandma(phrase)
     return says
   end
   
-    
+  if 
+    phrase = "Hi!"
+  
  end 
   
 # Whatever you say to grandma, she should respond with

@@ -19,7 +19,11 @@ def speak_to_grandma(phrase)
   
   if 
     phrase == "WHAT DID YOU EAT TODAY?"
-    says = 
+    says = "NO, NOT SINCE 1938!"
+    return says
+  end 
+  
+  if 
 
 end 
 

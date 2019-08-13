@@ -12,9 +12,18 @@ def speak_to_grandma(phrase)
   end
   
   if 
-    phrase = "Hi!"
+    phrase == "Hi!"
+    says = "HUH?! SPEAK UP, SONNY!"
+    return says
+  end
   
- end 
+  if 
+    
+
+end 
+
+ 
+  
   
 # Whatever you say to grandma, she should respond with
 # HUH?! SPEAK UP, SONNY!

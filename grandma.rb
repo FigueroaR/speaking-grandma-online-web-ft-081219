@@ -24,7 +24,8 @@ def speak_to_grandma(phrase)
   end 
   
   if 
-    phrase == 
+    phrase == 'WHAT?'
+    says = 
 
 end 
 

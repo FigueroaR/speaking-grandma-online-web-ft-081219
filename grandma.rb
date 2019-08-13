@@ -6,9 +6,11 @@ def speak_to_grandma(phrase)
   end
   
   elsif phrase == 'Hi Nana, how are you?'
-    says = 
+    says = "HUH?! SPEAK UP, SONNY!"
+    return says
+  end
   
-  
+    
  end 
   
 # Whatever you say to grandma, she should respond with
